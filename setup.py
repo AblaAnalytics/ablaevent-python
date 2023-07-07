@@ -29,7 +29,7 @@ extras_require = {
 }
 
 setup(
-    name="posthog",
+    name="ablaevent",
     version=VERSION,
     url="https://github.com/posthog/posthog-python",
     author="Posthog",
