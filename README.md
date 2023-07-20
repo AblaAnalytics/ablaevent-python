@@ -1,4 +1,4 @@
-# PostHog Python
+# Ablaevent Python
 
 [![PyPI](https://img.shields.io/pypi/v/posthog)](https://pypi.org/project/posthog/)
 
