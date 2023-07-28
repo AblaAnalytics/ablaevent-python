@@ -30,7 +30,7 @@ extras_require = {
 
 setup(
     name="ablaevent",
-    version=VERSION,
+    version="3.0.3",
     url="https://github.com/AblaAnalytics/ablaevent-python",
     author="Posthog",
     author_email="hey@posthog.com",
