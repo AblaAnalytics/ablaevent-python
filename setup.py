@@ -31,7 +31,7 @@ extras_require = {
 setup(
     name="ablaevent",
     version=VERSION,
-    url="https://github.com/AblaAnalytics/posthog-python",
+    url="https://github.com/AblaAnalytics/ablaevent-python",
     author="Posthog",
     author_email="hey@posthog.com",
     maintainer="PostHog",
@@ -41,7 +41,7 @@ setup(
     license="MIT License",
     install_requires=install_requires,
     extras_require=extras_require,
-    description="Integrate PostHog into any python application.",
+    description="Integrate Ablaevent into any python application.",
     long_description=long_description,
     classifiers=[
         "Development Status :: 5 - Production/Stable",
