@@ -12,7 +12,7 @@ pip install ablaevent
 ````
 from ablaevent import Posthog
 
-posthog = Posthog(project_api_key='phc_ySCF4YinUf6DxprJ5B0jXtzgijeTqFkWPsIIfC3yTrC', host='https://e.abla.io')
+posthog = Posthog(project_api_key='PHC', host='https://e.abla.io')
 
 ````
             
