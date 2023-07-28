@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "posthoganalytics"))
 from version import VERSION
 
 long_description = """
-PostHog is developer-friendly, self-hosted product analytics. posthog-python is the python package.
+Ablaevent is developer-friendly, self-hosted product analytics. ablaevent-python is the python package.
 """
 
 install_requires = ["requests>=2.7,<3.0", "six>=1.5", "monotonic>=1.5", "backoff>=1.10.0", "python-dateutil>2.1"]
@@ -21,7 +21,7 @@ tests_require = ["mock>=2.0.0"]
 setup(
     name="posthoganalytics",
     version=VERSION,
-    url="https://github.com/posthog/posthog-python",
+    url="https://github.com/AblaAnalytics/ablaevent-python",
     author="Posthog",
     author_email="hey@posthog.com",
     maintainer="PostHog",

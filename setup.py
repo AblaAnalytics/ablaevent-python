@@ -31,7 +31,7 @@ extras_require = {
 setup(
     name="ablaevent",
     version=VERSION,
-    url="https://github.com/posthog/posthog-python",
+    url="https://github.com/AblaAnalytics/posthog-python",
     author="Posthog",
     author_email="hey@posthog.com",
     maintainer="PostHog",
